@@ -50,6 +50,7 @@ Key steps involved:
 ## 📁 File Structure
 
 - `/queries/`: Contains individual `.sql` files for key queries (KPIs, retention, trends).
+- `/visualizations/`: Contains power bi report, dashboards and images for the same.
 - `README.md`: This file.
 
 ## 🛠️ Tools Used
