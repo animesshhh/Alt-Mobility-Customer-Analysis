@@ -36,7 +36,7 @@ Key steps involved:
    - Used DAX in Power BI to visualize cohort retention.
 
 4. **Performance Breakdown**
-   - Used `ORDER BY` and `GROUP BY` to analyze trends over time, such as:
+   - Analyzed trends over time, such as:
      - Monthly order and payment growth
      - Order status breakdowns
      - Payment method preferences
