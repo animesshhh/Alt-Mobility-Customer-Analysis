@@ -52,6 +52,7 @@ Key steps involved:
 - `/queries/`: Contains individual `.sql` files for key queries (KPIs, retention, trends).
 - `/visualizations/`: Contains power bi report, dashboards and images for the same.
 - `README.md`: This file.
+- `Summary of findings`: Contains summary of findings in analysis
 
 ## 🛠️ Tools Used
 
