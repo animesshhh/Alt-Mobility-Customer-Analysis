@@ -1,6 +1,6 @@
 # Alt-Mobility-Customer-Analysis
 
-# Customer Orders & Payments Analysis – SQL Queries
+## Customer Orders & Payments Analysis – SQL Queries
 
 ## 📊 Overview
 
